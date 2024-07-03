@@ -1,1 +1,1 @@
-Hello
+history.back();
